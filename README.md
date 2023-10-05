@@ -22,9 +22,9 @@
 
 <h3 align="center">👀Follow Me👀</h3>
 <p align="center">
-<a href="https://jinudmjournal.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-00ACC1?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="https://endurable-doom-908.notion.site/Jinwoo-Kim-ba88c2c3e87a4a16b5ed402bf501dea4" target="_blank"><img src="https://img.shields.io/badge/portfolio-00ACC1?style=flat-square&logo=readme&logoColor=black"/></a>
-<a href="mailto:jinwoo3661@naver.com" target="_blank"><img src="https://img.shields.io/badge/mail-00ACC1?style=flat-square&logo=naver&logoColor=03C75A"/></a>
+<a href="https://jinudmjournal.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-00ACC1?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://endurable-doom-908.notion.site/Jinwoo-Kim-ba88c2c3e87a4a16b5ed402bf501dea4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00ACC1?style=flat-square&logo=readme&logoColor=black"/></a>
+<a href="mailto:jinwoo3661@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-00ACC1?style=flat-square&logo=naver&logoColor=03C75A"/></a>
 </p>
 
 
