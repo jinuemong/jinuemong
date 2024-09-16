@@ -9,16 +9,16 @@
 </blockquote>
 <h5>
   모든 학습 내용과 트러블슈팅, 회고를 기술 블로그에 작성하고 있습니다.
-  <br><br><a href="https://jinudmjournal.tistory.com"target="_self">👀 기술 블로그 👀</a>
+  <br><br><a href="https://jinudmjournal.tistory.com"target="_self">👀 기술 블로그 바로가기 👀</a>
 </h5>
 <h5>
   주 2회씩 영문으로 기술 블로그 작성을 목표로 하고있습니다.
-  <br><br><a href="https://medium.com/@nunukim "target="_self">👀 영문 기술 블로그 👀</a>
+  <br><br><a href="https://medium.com/@nunukim "target="_self">👀 영문 기술 블로그 바로가기 👀</a>
 </h5>
 
 <h5>
   개발 관련 서적을 읽고 기록하고 있습니다.
-  <br><br><a href="https://www.notion.so/103ef9b944fa80a49bebdabec04ad564 "target="_self">👀 독서를 꾸준히💪💪 👀</a>
+  <br><br><a href="https://www.notion.so/103ef9b944fa80a49bebdabec04ad564 "target="_self">👀 독서를 꾸준히💪💪 바로가기 👀</a>
 </h5>
 
 <br><a href="mailto:jinwoo3661@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-00ACC1?style=flat-square&logo=naver&logoColor=03C75A"/></a>
@@ -36,7 +36,7 @@
 
 <h5>
   우아한테크코스 6기 안드로이드 (2024.02 ~ )
-  <br><br><a href="https://www.notion.so/ad94ada5d798418ea70212a4d3044269?v=dd66e16e073042c49e1b4eb94034af05"target="_self">👀 누누의 우아한테크코스 기록 👀</a>
+  <br><br><a href="https://www.notion.so/ad94ada5d798418ea70212a4d3044269?v=dd66e16e073042c49e1b4eb94034af05"target="_self">👀 누누의 우아한테크코스 기록 바로가기 👀</a>
 </h5>
 <h5>DND IT 동아리 10기 안드로이드 (2024.01 ~ 2024.04)</h5>
 <h5>DND IT 동아리 9기 안드로이드 (2023.07 ~ 2023.10)</h5>
