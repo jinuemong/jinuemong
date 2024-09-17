@@ -87,11 +87,21 @@
 
 <h2>🐾Project</h2>
 
-  <h6>반갑개 : 강아지 사회화 장려 서비스 </h6>
-  <h6>MOUR : 경조사 비용과 일정을 기록하고 공유하는 서비스 </h6>
-  <h6>굳이데이 : 바쁜 일상 속 나를 위한 낭만적인 날을 보내고 기록할 수 있는 서비스 </h6>
-  <h6>식사일기 : 매일 먹은 음식을 사진으로 기록하는 서비스</h6>
-  <h6>SwallowMonth : 한 달 주기 자기관리 서비스</h6>
+  <h6>
+    <a href="https://endurable-doom-908.notion.site/Android-4f83e823cb32459791662325f82b6c3b?pvs=4"target="_self">🔗 반갑개 : 강아지 사회화 장려 서비스</a> 
+  </h6>
+  <h6>
+    <a href="https://endurable-doom-908.notion.site/Android-MOUR-d2efc9cd0e0f4d1a81eae866e25be5d9?pvs=4"target="_self">🔗 MOUR : 경조사 비용과 일정을 기록하고 공유하는 서비스</a> 
+  </h6>
+  <h6>
+    <a href="https://endurable-doom-908.notion.site/Android-Gooding-0301e365d0824228a59f8068d079de0b?pvs=4"target="_self">🔗 굳이데이 : 바쁜 일상 속 나를 위한 낭만적인 날을 보내고 기록할 수 있는 서비스</a> 
+  </h6>
+  <h6>
+    <a href="https://endurable-doom-908.notion.site/Android-2c7707ec50a2425b90d04715d1b93251?pvs=4"target="_self">🔗 식사일기 : 매일 먹은 음식을 사진으로 기록하는 서비스</a> 
+  </h6>
+  <h6>
+    <a href="https://endurable-doom-908.notion.site/Android-SwallowMonth-2c657fc6571648408a0d8d57a610b754?pvs=4"target="_self">🔗 SwallowMonth : 한 달 주기 자기관리 서비스</a> 
+  </h6>
 <br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinuemong%2Fhit-counter&count_bg=%239E9F9E&title_bg=%23784B4B&icon=waze.svg&icon_color=%23FCFCFC&title=%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
