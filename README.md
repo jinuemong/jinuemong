@@ -74,7 +74,7 @@
   <li>Python을 활용한 알고리즘 & 자료구조 스터디</li>
 </ul>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdn5116)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdn5116)](https://solved.ac/wlsdn5116/)
 
 <h3>Tools</h3> 
 
