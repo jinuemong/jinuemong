@@ -1,4 +1,8 @@
 <h2>🙇‍♂️About Me</h2>
+<h6>
+  Android Developer<br>
+  Major in Computer Science
+</h6>
 <h4>안드로이드 개발자 김진우입니다.</h4> 
 
 <blockquote>
