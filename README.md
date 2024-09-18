@@ -16,7 +16,7 @@
   <br><br><a href="https://jinudmjournal.tistory.com"target="_self">👀 기술 블로그 바로가기 👀</a>
 </h5>
 <h5>
-  주 2회씩 영문으로 기술 블로그 작성을 목표로 하고있습니다.
+  주 2회씩 영문으로 기술 블로그 작성을 목표로 하고 있습니다.
   <br><br><a href="https://medium.com/@nunukim "target="_self">👀 영문 기술 블로그 바로가기 👀</a>
 </h5>
 
