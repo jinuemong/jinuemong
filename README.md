@@ -8,7 +8,7 @@
 <blockquote>
   <h6>
     문제를 긍정적으로 관찰하고 해결하려는 습관을 가지고 있습니다.<br>
-    명확한 의사소통과 읽기 좋은 코드 작성을 지향합니다.
+    명확한 의사소통과 읽기 좋은 코드 작성을 지향합니다.서
   </h6>
 </blockquote>
 <h5>
@@ -22,7 +22,7 @@
 
 <h5>
   개발 관련 서적을 읽고 기록하고 있습니다.
-  <br><br><a href="https://www.notion.so/103ef9b944fa80a49bebdabec04ad564 "target="_self">👀 독서를 꾸준히💪💪 바로가기 👀</a>
+  <br><br><a href="https://endurable-doom-908.notion.site/103ef9b944fa80a49bebdabec04ad564?pvs=4 "target="_self">👀 독서를 꾸준히💪💪 바로가기 👀</a>
 </h5>
 
 <br><a href="mailto:jinwoo3661@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-00ACC1?style=flat-square&logo=naver&logoColor=03C75A"/></a>
