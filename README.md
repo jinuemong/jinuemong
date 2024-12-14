@@ -16,13 +16,12 @@
   <br><br><a href="https://jinudmjournal.tistory.com"target="_self">👀 기술 블로그 바로가기 👀</a>
 </h5>
 <h5>
-  주 1회 영문으로 기술 블로그 작성을 목표로 하고 있습니다.
-  <br><br><a href="https://medium.com/@nunukim "target="_self">👀 영문 기술 블로그 바로가기 👀</a>
-</h5>
-
-<h5>
   개발 관련 서적을 읽고 기록하고 있습니다.
   <br><br><a href="https://endurable-doom-908.notion.site/103ef9b944fa80a49bebdabec04ad564?pvs=4 "target="_self">👀 독서를 꾸준히💪💪 바로가기 👀</a>
+</h5>
+<h5>
+  주 1회 영문으로 기술 블로그 작성을 목표로 하고 있습니다.
+  <br><br><a href="https://medium.com/@nunukim "target="_self">👀 영문 기술 블로그 바로가기 👀</a>
 </h5>
 
 <br><a href="mailto:jinwoo3661@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-00ACC1?style=flat-square&logo=naver&logoColor=03C75A"/></a>
@@ -38,12 +37,32 @@
 <h2>💪Activity</h2>
 
 
-<h5>
+<h4>
   우아한테크코스 6기 안드로이드 (2024.02 ~ 2024.11)
-  <br><br><a href="https://www.notion.so/ad94ada5d798418ea70212a4d3044269?v=dd66e16e073042c49e1b4eb94034af05"target="_self">👀 누누의 우아한테크코스 기록 바로가기 👀</a>
+</h4>
+<h5>
+  우아한형제들에서 운영하는 개발자 교육 프로그램에 안드로이드 파트로 참여하였습니다.<br>
+  <ul><br>
+    <li>
+      <a href="https://www.notion.so/ad94ada5d798418ea70212a4d3044269?v=dd66e16e073042c49e1b4eb94034af05"target="_self">👀 누누의 우아한테크코스 기록 바로가기 👀</a>
+    </li>
+  </ul>
 </h5>
-<h5>DND IT 동아리 10기 안드로이드 (2024.01 ~ 2024.04)</h5>
-<h5>DND IT 동아리 9기 안드로이드 (2023.07 ~ 2023.10)</h5>
+<h5>
+  Jetpack Compose와 상태 관리에 대하여 발표하였습니다.<br>
+  <ul><br>
+    <li>
+      <a href="https://youtu.be/sOfeCigoTIE?si=zUmwiO6DvG-ZZpYt"target="_self">🎥 테코톡 발표 영상</a>   
+      <a href="https://jinudmjournal.tistory.com/273"target="_self">🗂️ 테코톡 발표 자료</a>
+    </li>
+  </ul>
+</h5>
+<h4>
+  DND IT 동아리 10기 안드로이드 (2024.01 ~ 2024.04)
+</h4>
+<h4>
+  DND IT 동아리 9기 안드로이드 (2023.07 ~ 2023.10)
+</h4>
 
 <h2>📚Tech Stack</h2>
 
@@ -63,7 +82,8 @@
   </li>
   <li>LiveData, Coroutines, Flow</li>
   <li>Jetpack Compose, ViewBinding, DataBinding</li>
-  <li>Hilt, Retorfit, Interceptor, Junit, Lottie</li>
+  <li>Jetpack Library, Android Architecture Components</li>
+  <li>Hilt, Retorfit, Interceptor, Junit, MockK, Lottie, Glide, Coil</li>
 </ul>
 
 <h3>Study</h3> 
