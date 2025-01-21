@@ -5,12 +5,6 @@
 </h6>
 <h4>안드로이드 개발자 김진우입니다.</h4> 
 
-<blockquote>
-  <h6>
-    문제를 긍정적으로 관찰하고 해결하려는 습관을 가지고 있습니다.<br>
-    명확한 의사소통과 읽기 좋은 코드 작성을 지향합니다.
-  </h6>
-</blockquote>
 <h5>
   모든 학습 내용과 트러블슈팅, 회고를 기술 블로그에 작성하고 있습니다.
   <br><br><a href="https://jinudmjournal.tistory.com"target="_self">👀 기술 블로그 바로가기 👀</a>
@@ -94,7 +88,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 </p>
 <ul>
-  <li>Django REST Framework & Flutter 스터디 </li>
+  <li>Flutter 스터디 </li>
   <li>Python을 활용한 알고리즘 & 자료구조 스터디</li>
 </ul>
 
