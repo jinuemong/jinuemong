@@ -6,15 +6,15 @@
 <h4>안드로이드 개발자 김진우입니다.</h4> 
 
 <h5>
-  모든 학습 내용과 트러블슈팅, 회고를 기술 블로그에 작성하고 있습니다.
+  학습한 내용, 트러블슈팅, 회고 등을 기술 블로그에 정리하고 있습니다.
   <br><br><a href="https://jinudmjournal.tistory.com"target="_self">👀 기술 블로그 바로가기 👀</a>
 </h5>
 <h5>
-  개발 관련 서적을 읽고 기록하고 있습니다.
+  개발 관련 서적을 꾸준히 읽고 기록하며 학습하고 있습니다.
   <br><br><a href="https://endurable-doom-908.notion.site/103ef9b944fa80a49bebdabec04ad564?pvs=4 "target="_self">👀 독서를 꾸준히💪💪 바로가기 👀</a>
 </h5>
 <h5>
-  주 1회 영문으로 기술 블로그 작성을 목표로 하고 있습니다.
+  영문 기술 블로그를 운영하며 개발 경험과 배운 내용을 공유하고 있습니다.
   <br><br><a href="https://medium.com/@nunukim "target="_self">👀 영문 기술 블로그 바로가기 👀</a>
 </h5>
 
