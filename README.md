@@ -3,7 +3,6 @@
   Android Developer<br>
   Major in Computer Science
 </h6>
-<h4>안드로이드 개발자 김진우입니다.</h4> 
 
 <h5>
   학습한 내용, 트러블슈팅, 회고 등을 기술 블로그에 정리하고 있습니다.
