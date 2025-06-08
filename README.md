@@ -114,5 +114,3 @@
   </h6>
 <br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinuemong%2Fhit-counter&count_bg=%239E9F9E&title_bg=%23784B4B&icon=waze.svg&icon_color=%23FCFCFC&title=%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
-
