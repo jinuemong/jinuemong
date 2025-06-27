@@ -3,15 +3,10 @@
   Android Developer<br>
   Major in Computer Science
 </h6>
-
 <h5>
-  학습한 내용, 트러블슈팅, 회고 등을 기술 블로그에 정리하고 있습니다.
-  <br><br><a href="https://jinudmjournal.tistory.com"target="_self">👀 기술 블로그 바로가기 👀</a>
-  <br><br><a href="https://medium.com/@nunukim "target="_self">👀 영문 기술 블로그 바로가기 👀</a>
-</h5>
-<h5>
-  개발 관련 서적을 꾸준히 읽고 기록하며 학습하고 있습니다.
-  <br><br><a href="https://endurable-doom-908.notion.site/103ef9b944fa80a49bebdabec04ad564?pvs=4 "target="_self">👀 독서를 꾸준히💪💪 바로가기 👀</a>
+  <br><a href="https://jinudmjournal.tistory.com"target="_self">👀 기술 블로그 👀</a>
+  <br><br><a href="https://endurable-doom-908.notion.site/103ef9b944fa80a49bebdabec04ad564?pvs=4 "target="_self">👀 독서를 꾸준히💪💪 👀</a>
+  <br><br><a href="https://medium.com/@nunukim "target="_self">👀 영문 기술 블로그 👀</a>
 </h5>
 
 <br><a href="mailto:jinwoo3661@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-00ACC1?style=flat-square&logo=naver&logoColor=03C75A"/></a>
