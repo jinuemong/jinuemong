@@ -28,15 +28,14 @@
   우아한테크코스 6기 안드로이드 (2024.02 ~ 2024.11)
 </h4>
 <h5>
-  우아한형제들에서 운영하는 개발자 교육 프로그램에 안드로이드 파트로 참여하였습니다.<br>
-  <ul><br>
+  <ul>
     <li>
       <a href="https://www.notion.so/ad94ada5d798418ea70212a4d3044269?v=dd66e16e073042c49e1b4eb94034af05"target="_self">👀 누누의 우아한테크코스 기록 바로가기 👀</a>
     </li>
   </ul>
 </h5>
 <h5>
-  Jetpack Compose와 상태 관리에 대하여 발표하였습니다.<br>
+  Jetpack Compose와 상태 관리 발표<br>
   <ul><br>
     <li>
       <a href="https://youtu.be/sOfeCigoTIE?si=zUmwiO6DvG-ZZpYt"target="_self">🎥 테코톡 발표 영상</a>   
@@ -72,13 +71,8 @@
 
 <h3>Study</h3> 
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-</p>
 <ul>
-  <li>Flutter 스터디 </li>
+  <li>Flutter&React Native 스터디 </li>
   <li>알고리즘 & 자료구조 스터디</li>
 </ul>
 
@@ -93,8 +87,7 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white">
 </p>
 
-<h2>🐾Project</h2>
-
+<h2>🐾Main Project</h2>
   <h6>
     <a href="https://www.notion.so/Android-4f83e823cb32459791662325f82b6c3b?pvs=4"target="_self">🔗 반갑개 : 강아지 사회화 장려 서비스</a> 
   </h6>
@@ -103,9 +96,6 @@
   </h6>
   <h6>
     <a href="https://www.notion.so/Android-2c7707ec50a2425b90d04715d1b93251?pvs=4"target="_self">🔗 식사일기 : 매일 먹은 음식을 사진으로 기록하는 서비스</a> 
-  </h6>
-  <h6>
-    <a href="https://www.notion.so/15def9b944fa80758054e63dbdf5fff4?pvs=4"target="_self">🔗 서브 프로젝트</a> 
   </h6>
 <br><br>
 
