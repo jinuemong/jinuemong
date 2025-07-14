@@ -6,7 +6,6 @@
 <h5>
   <a href="https://jinudmjournal.tistory.com"target="_self">👀 기술 블로그 👀</a>
   <br><br><a href="https://endurable-doom-908.notion.site/103ef9b944fa80a49bebdabec04ad564?pvs=4 "target="_self">👀 독서 기록 👀</a>
-  <br><br><a href="https://medium.com/@nunukim "target="_self">👀 영문 기술 블로그 👀</a>
 </h5>
 
 <a href="mailto:jinwoo3661@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-00ACC1?style=flat-square&logo=naver&logoColor=03C75A"/></a>
